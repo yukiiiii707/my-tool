@@ -1,1 +1,3 @@
-streamli、requests、duckduckgo-search
+streamlit
+requests
+duckduckgo-search
